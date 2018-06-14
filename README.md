@@ -1,5 +1,3 @@
-# 2D-Shape-Match
-2D shape match
 
 # 2D-Shape-Match
 # shape matching for translation and rotation cases (Zoon cases if not included by now)
